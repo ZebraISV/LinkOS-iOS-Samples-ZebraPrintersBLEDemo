@@ -1,7 +1,0 @@
-# THIS IS ONLY FOR THE gitattributes REPOSITORY.
-
-
-$ cat .gitattributes
-project-docs/* linguist-documentation
-docs/formatter.rb linguist-documentation=false
-
