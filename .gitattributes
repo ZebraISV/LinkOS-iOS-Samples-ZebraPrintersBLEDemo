@@ -1,6 +1,6 @@
 # THIS IS ONLY FOR THE gitattributes REPOSITORY.
 
-
-static/* linguist-vendored
+* linguist-vendored
+*.js linguist-vendored=false
 
 
