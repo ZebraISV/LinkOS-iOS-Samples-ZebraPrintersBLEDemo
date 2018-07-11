@@ -1,13 +1,7 @@
-**IMPORTANT PLEASE READ CAREFULLY:**
-**(UNRESTRICTED SOFTWARE)** 
-##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
-<br/>
-<br/>
+# LinkOS-iOS-Samples-ZebraPrintersBLEDemo
+###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE_ AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br />
 
-
-### BTLE_Transfer ###
-
-===========================================================================
 DESCRIPTION:
 
 This sample shows how to transfer data from an iOS device in CoreBluetooth Peripheral Mode to another in Central Mode, by using a CBCharacteristic on the Peripheral side that changes its value.  The value change is automatically picked up on the Central side.
